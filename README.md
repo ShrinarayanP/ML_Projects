@@ -3,6 +3,9 @@ In current time of Internet being cheap and easily available to all, there has b
 From above comes the reason to predict future stock prices, and here we are going to apply machine learning algorithm on the Yes Bank Stock data to predict the future outcomes.
 Here My aim is to analyze the data and predict the future of Yes Bank stock using the regression model.
 
+# The Link to Dataset I have used for my Study
+https://github.com/ShrinarayanP/ML_Projects/blob/main/data_YesBank_StockPrices.csv
+
 # What have I Done in my project
 I have tried to explore the dataset and to do so I have used numpy, pandas, matplotlib, seaborn libraries of python.
 I have done data preprocessing as needed for my study, I removed nulls and missing values if needed, I tried to find outliers and removed if needed.
