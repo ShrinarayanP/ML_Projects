@@ -8,7 +8,7 @@ https://github.com/ShrinarayanP/ML_Projects/blob/main/TRAIN-HEALTH%20INSURANCE%2
 I have tried to explore the dataset and to do so I have used numpy, pandas, matplotlib, seaborn libraries of python.
 I have done data preprocessing as needed for my study, I removed nulls and missing values if needed, I tried to find outliers and removed if needed.
 For predictive analysis I have used 3 different models and have also tried to get the best of the results using hyper-parameter tuning and cross validation.
-Also since my dataset was highly imbalanced i have used SMOTE algorithm to make a balanced dataset.
+Also since my dataset was highly imbalanced I have used SMOTE algorithm to make a balanced dataset for this I used imblearn Library in python.
 ### Models used here are:
 1. Logistic Regression
 2. RandomForestClassifier
